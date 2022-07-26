@@ -671,10 +671,6 @@ dist_http_archive(
 )
 
 dist_http_archive(
-    name = "upb",
-)
-
-dist_http_archive(
     name = "bazel_gazelle",
 )
 
